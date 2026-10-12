@@ -25,9 +25,9 @@ to open it.
 ### iOS and iPadOS — TestFlight
 
 Install [TestFlight from the App Store](https://apps.apple.com/app/testflight/id899247664),
-then open the IsctCompanion invitation link. **Public testing is not open yet;
-there is currently no public invitation link.** This section will contain the
-link when external testing becomes available.
+then [join the IsctCompanion public beta](https://testflight.apple.com/join/kUZNQHG6).
+The first 1.0 RC build becomes installable after Apple processes the upload
+and approves external testing.
 
 The IPA in Releases is signed for App Store distribution. Use TestFlight to
 install it on an iPhone or iPad; downloading that IPA alone does not install
